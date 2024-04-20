@@ -1,4 +1,4 @@
-# flutter_quiz1
+# WEATHER FORECAST
 
 The project "Weather Forecast" is aimed at providing users with accurate and up-to-date weather information for their specified locations. It allows users to access forecasts for various time periods, such as hourly, daily, or weekly forecasts. Additionally, the application may include features such as current weather conditions, temperature trends, wind speed, humidity levels, and precipitation forecasts. Users can interact with the application to view weather data for different locations, set favorite locations, receive weather alerts, and customize their weather preferences. The goal of the project is to create a user-friendly and reliable weather forecasting application to help users plan their activities and stay informed about weather conditions.
 
